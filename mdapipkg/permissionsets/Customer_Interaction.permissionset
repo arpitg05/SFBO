@@ -3,34 +3,34 @@
      
     <fieldPermissions>
         <editable>true</editable>
-        <field>rider_history__b.Start_Location_Lat__c</field>
+        <field>Customer_Interaction__b.In_Game_Purchase__c</field>
         <readable>true</readable>
     </fieldPermissions>
      
     <fieldPermissions>
         <editable>true</editable>
-        <field>rider_history__b.Start_Location_Long__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-         
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>rider_history__b.End_Time__c</field>
+        <field>Customer_Interaction__b.Level_Achieved__c</field>
         <readable>true</readable>
     </fieldPermissions>
      
     <fieldPermissions>
         <editable>true</editable>
-        <field>rider_history__b.Service_Type__c</field>
+        <field>Customer_Interaction__b.Lives_This_Game__c</field>
         <readable>true</readable>
     </fieldPermissions>
      
-      <fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
-        <field>rider_history__b.Rider_Rating__c</field>
+        <field>Customer_Interaction__b.Play_Duration__c</field>
         <readable>true</readable>
     </fieldPermissions>
      
-     <label>Rider History Permission Set</label>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Customer_Interaction__b.Score_This_Game__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+     
+     <label>Customer Interaction Permission Set</label>
 
 </PermissionSet>

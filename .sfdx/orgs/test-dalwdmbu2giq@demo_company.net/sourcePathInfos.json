@@ -1,0 +1,737 @@
+[
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511186127748,
+            "changeTime": 1511186127748,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511186127748,
+            "changeTime": 1511186127748,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511275043800,
+            "changeTime": 1511275043800,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511186127750,
+            "changeTime": 1511186127750,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511298831795,
+            "changeTime": 1511298831795,
+            "contentHash": "d985ce244cb95d3b66868282f617ca02eaed1ddd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Case-Case %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Case-Case %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11848,
+            "modifiedTime": 1511186595811,
+            "changeTime": 1511186595811,
+            "contentHash": "f6b3bc5b562a5b395bb4ee891a7cc748ff9f4c0c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Case-Case %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Case-Case %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11848,
+            "modifiedTime": 1511186595838,
+            "changeTime": 1511186595838,
+            "contentHash": "ac32a8ab28b63aa1a00c916ece92d589eb88c360",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Case-Case %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Case-Case %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12047,
+            "modifiedTime": 1511186595822,
+            "changeTime": 1511186595822,
+            "contentHash": "9403f9ea1bceacf1168952c61d8a71f9af8ebf3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Case-Case Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Case-Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12043,
+            "modifiedTime": 1511186595830,
+            "changeTime": 1511186595830,
+            "contentHash": "50a97c55c29a74d461c69dfe7553d942111a4a33",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\CaseClose-Close Case Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\CaseClose-Close Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1285,
+            "modifiedTime": 1511186595803,
+            "changeTime": 1511186595803,
+            "contentHash": "6de1f2269b788f66eabd0287960e9871d58d5bf5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Test_Custom_Object__c-Test Custom Object Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\layouts\\Test_Custom_Object__c-Test Custom Object Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2081,
+            "modifiedTime": 1511299042135,
+            "changeTime": 1511299042135,
+            "contentHash": "755caddb6561baa126239506c8ba098b5ad1dba2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511299752958,
+            "changeTime": 1511299752958,
+            "contentHash": "27f8c222e9d6e99d160054fc93de4000dbc33f9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511299734410,
+            "changeTime": 1511299752961,
+            "contentHash": "5307354608fff9192d03fbc9164b5b89637c41cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\Customer_Interaction__b.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\Customer_Interaction__b.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 261,
+            "modifiedTime": 1511299734386,
+            "changeTime": 1511299734386,
+            "contentHash": "043cfc961df059278841897a336ef1573f81e6cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511299734409,
+            "changeTime": 1511299734409,
+            "contentHash": "3753e644727df231edd3ddbd1a40ecb80a645d50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Account__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1511299734405,
+            "changeTime": 1511299734405,
+            "contentHash": "a2be595ea400bf3a36dda59c8f60f6144d1b4961",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Game_Platform__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Game_Platform__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 289,
+            "modifiedTime": 1511299734401,
+            "changeTime": 1511299734401,
+            "contentHash": "6b65be3825923b3e888ced50858dac7e231030ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\In_Game_Purchase__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\In_Game_Purchase__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 301,
+            "modifiedTime": 1511299734393,
+            "changeTime": 1511299734393,
+            "contentHash": "3d34d74f58521fe14370321b55766ec1745f3e56",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Level_Achieved__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Level_Achieved__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 297,
+            "modifiedTime": 1511299734396,
+            "changeTime": 1511299734396,
+            "contentHash": "9df5d922c95773bec2dc522ba7135b8d8a4141c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Lives_This_Game__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Lives_This_Game__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 304,
+            "modifiedTime": 1511299734398,
+            "changeTime": 1511299734398,
+            "contentHash": "3c24038c8de1277dac26942dc4d72e904eff2c7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Play_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Play_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1511299734407,
+            "changeTime": 1511299734407,
+            "contentHash": "9b18febbab5f2f3508b6570fb11ba81968330932",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Play_Duration__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Play_Duration__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 297,
+            "modifiedTime": 1511299734409,
+            "changeTime": 1511299734409,
+            "contentHash": "c7bde0c593aeef15e17b93b7dac5a1ae0b9724e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Score_This_Game__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\fields\\Score_This_Game__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 299,
+            "modifiedTime": 1511299734403,
+            "changeTime": 1511299734403,
+            "contentHash": "6b09cb6f39d0698ad7641cae488947c44b4bc3c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\indexes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\indexes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511299734413,
+            "changeTime": 1511299734413,
+            "contentHash": "477fabe936541bbfbe9b82d6f80475bb6672a4dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\indexes\\CustomerInteractionsIndex.indexe-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Customer_Interaction__b\\indexes\\CustomerInteractionsIndex.indexe-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 518,
+            "modifiedTime": 1511299734414,
+            "changeTime": 1511299734414,
+            "contentHash": "a23df8889ef1e847300ba1d4d5a676d46bc345fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511275030177,
+            "changeTime": 1511275030177,
+            "contentHash": "dc46e4df000c53d5cbeffda0893f3ef560565d80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511275030175,
+            "changeTime": 1511275030175,
+            "contentHash": "32f399367746d8ced6769736b28ff56dbe3ceb3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\End_Time__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1511275030170,
+            "changeTime": 1511275030170,
+            "contentHash": "f916f2e569ad070789053ba9af722db62b989c46",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Rider_Account__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Rider_Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1511275030173,
+            "changeTime": 1511275030173,
+            "contentHash": "22f775fcad5861879cfd3f288a9ccce470f9f7c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Rider_Rating__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Rider_Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 321,
+            "modifiedTime": 1511275030176,
+            "changeTime": 1511275030176,
+            "contentHash": "4fb965b52cef11b8c95768c73d878930b92ae987",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Start_Location_Lat__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Start_Location_Lat__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 338,
+            "modifiedTime": 1511275030155,
+            "changeTime": 1511275030155,
+            "contentHash": "8be85656c54d39a9f27532144eb657e0b72519b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Start_Location_Long__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Start_Location_Long__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 340,
+            "modifiedTime": 1511275030157,
+            "changeTime": 1511275030157,
+            "contentHash": "3eff10cc1bc4e68c8f08e5c686258371bb94bd93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Start_Time__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\fields\\Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1511275030168,
+            "changeTime": 1511275030168,
+            "contentHash": "3658d36ddab84e791acd9bd720c31bbabb1bbc58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\indexes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\indexes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511275030181,
+            "changeTime": 1511275030181,
+            "contentHash": "1e44cd70f1476b6b44a93fc1df7cdabf1fd6545d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\indexes\\Rider_History_Index.indexe-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\indexes\\Rider_History_Index.indexe-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1511275030182,
+            "changeTime": 1511275030182,
+            "contentHash": "1cd903b265fdc80fbbc9cb5c5c0fdb243303cd35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\rider_history__b.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\rider_history__b\\rider_history__b.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1511275030148,
+            "changeTime": 1511275030148,
+            "contentHash": "8da16834ac7c002f95db57f3ed469ad385f35f4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Test_Custom_Object__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Test_Custom_Object__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511299042122,
+            "changeTime": 1511299042122,
+            "contentHash": "077b3b84d8c6d831147005e567295788e87b7ff1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Test_Custom_Object__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Test_Custom_Object__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511299042126,
+            "changeTime": 1511299042126,
+            "contentHash": "4af314db4fcfe723b5a72f30ea2459c0020f2888",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Test_Custom_Object__c\\fields\\cbox__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Test_Custom_Object__c\\fields\\cbox__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1511299042127,
+            "changeTime": 1511299042127,
+            "contentHash": "c06fb89c6b6f9115607fa2f4a468ee5d8f89861d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Test_Custom_Object__c\\Test_Custom_Object__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\objects\\Test_Custom_Object__c\\Test_Custom_Object__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2167,
+            "modifiedTime": 1511298831790,
+            "changeTime": 1511298831790,
+            "contentHash": "1c05b7b911ed8758bad00941d14e417849955a65",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511299764733,
+            "changeTime": 1511299764733,
+            "contentHash": "46bf8b2275c2e9d4c771de1512e079724cfe7335",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\permissionsets\\Customer_Interaction.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\permissionsets\\Customer_Interaction.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1078,
+            "modifiedTime": 1511299764768,
+            "changeTime": 1511299764768,
+            "contentHash": "4e245760e321851f376ac027f78f7bcc6c303b14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\permissionsets\\rider_history.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\permissionsets\\rider_history.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1032,
+            "modifiedTime": 1511275030207,
+            "changeTime": 1511275030207,
+            "contentHash": "8f0ddbdf8c747ae5f78088ec3f45f243b1ae12b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511186595882,
+            "changeTime": 1511186595882,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19926,
+            "modifiedTime": 1511299042172,
+            "changeTime": 1511299042172,
+            "contentHash": "3a3c1582ddb87e34b11892c26746416483aa68b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6215,
+            "modifiedTime": 1511299042189,
+            "changeTime": 1511299042189,
+            "contentHash": "56a7884aeb88cf8ae8ec4cb440eabf992059b144",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6211,
+            "modifiedTime": 1511299042211,
+            "changeTime": 1511299042211,
+            "contentHash": "cc6d3d60032766196c36300f579c68fc4c9b9fa9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6551,
+            "modifiedTime": 1511299042204,
+            "changeTime": 1511299042204,
+            "contentHash": "2dedbcad3d4493a4168ce332181e7f6904d388eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Apps\\workspace\\SalesforceDx\\bigobject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Apps\\workspace\\SalesforceDx\\bigobject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511299734273,
+            "changeTime": 1511299734273,
+            "contentHash": "7fd068add08911ff613ccecdf1cc4012d412d47b",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
